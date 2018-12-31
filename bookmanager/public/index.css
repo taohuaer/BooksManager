@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  background: lightgreen;
+  font-size: 24px;
+}
+.books table {
+  width: 100%;
+  text-align: center;
+  border: 1px solid orange;
+}
+.books table td,
+.books table th {
+  border: 1px solid orange;
+  height: 40px;
+  line-height: 40px;
+}
